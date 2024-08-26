@@ -18,5 +18,6 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     padding: 12,
     overflow: "hidden",
+    maxWidth: "80%",
   },
 });
